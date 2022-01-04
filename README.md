@@ -1,6 +1,5 @@
 # RLExamples
-Repository dedicata all'attività progettuale in Data Mining di Mattia Spazzoli
+In questa repository verrrano depositati due applicazioni di Reinforcement Learning con Agente utilizzante una strategia di tipo Deep Q Learning. Questa folder vuole centrare il fine previsto da un'attività progettuale in Data Mining.
 
-In questa repositori verrrano depositati due applicazioni di Reinforcement Learning con Agente utilizzante una strategia di tipo Deep Q Learning. Questa repository vuole cogliere il fine preposto da un'attività progettuale in Data Mining.
-
-Per i due progetti, verranno utilizzate due piattaforme dedicate al RL differenti, a scopo di confronto.
+Per i due progetti, verranno utilizzate due piattaforme dedicate al RL differenti, a scopo di confronto:
+1) OpenAI Gym (https://gym.openai.com/)
