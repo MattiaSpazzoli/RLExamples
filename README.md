@@ -3,3 +3,6 @@ In questa repository verrrano depositati due applicazioni di Reinforcement Learn
 
 Per i due progetti, verranno utilizzate due piattaforme dedicate al RL differenti, a scopo di confronto:
 1) OpenAI Gym (https://gym.openai.com/)
+2) Dopamine (https://opensource.google/projects/dopamine)
+
+Viene inserita qui anche la presentazione utilizzata in occasione di consegna.
