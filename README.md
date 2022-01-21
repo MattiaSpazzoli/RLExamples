@@ -1,4 +1,4 @@
-# Spazzoli-ReinforcementLearning-Experiments
+# ReinforcementLearning Experiments
 ## Obiettivi
 Questa repository è stata creata per raccogliere il materiale elaborato da Mattia Spazzoli per il conseguimento dell'attività progettuale in Data Mining M presente all'interno del piano di studi di Ingegneria Informatica Magistrale di Bologna.
 
